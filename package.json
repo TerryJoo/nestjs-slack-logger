@@ -1,8 +1,7 @@
 {
-  "name": "nestjs-slack-logger",
+  "name": "@funny-fig/nestjs-slack-logger",
   "version": "0.0.1",
   "description": "",
-  "author": "",
   "private": true,
   "license": "ISC",
   "files": [
